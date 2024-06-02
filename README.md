@@ -29,5 +29,3 @@ Write a function isArraySpecial that takes an array of integers and checks if ev
 
 # Question 7: Transpose of a Matrix
 Write a function transpose that takes an N x N matrix and returns its transpose.
-
-
