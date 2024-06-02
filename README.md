@@ -6,8 +6,8 @@ The problems are designed to test my understanding of fundamental concepts in C 
 
 # Assignment Questions
 # Question 1: Fibonacci Number
-Write a function fibonacci that takes an integer n as a parameter and returns the nth Fibonacci number. The Fibonacci sequence is defined as:
-
+Write a function fibonacci that takes an integer n as a parameter and returns the nth Fibonacci number.
+The Fibonacci sequence is defined as:
 F(0) = 0
 F(1) = 1
 F(n) = F(n-1) + F(n-2) for n > 1
