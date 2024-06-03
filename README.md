@@ -8,9 +8,9 @@ The problems are designed to test my understanding of fundamental concepts in C 
 # Question 1: Fibonacci Number
 Write a function fibonacci that takes an integer n as a parameter and returns the nth Fibonacci number.
 The Fibonacci sequence is defined as:
-F(0) = 0
-F(1) = 1
-F(n) = F(n-1) + F(n-2) for n > 1
+. F(0) = 0
+. F(1) = 1
+. F(n) = F(n-1) + F(n-2) for n > 1
 
 # Question 2: Print Alphabets
 Write a function alphabets that takes two characters c1 and c2 and prints all the alphabets starting from c1 to c2 in a single line.
@@ -29,3 +29,10 @@ Write a function isArraySpecial that takes an array of integers and checks if ev
 
 # Question 7: Transpose of a Matrix
 Write a function transpose that takes an N x N matrix and returns its transpose.
+
+# Instructions
+. Clone the repository or download the files.
+. Implement each function in the corresponding C file.
+. Ensure your code is properly commented and follows good coding practices.
+. Compile and test your code using a C compiler.
+Submit your completed assignment as per the submission guidelines provided.
