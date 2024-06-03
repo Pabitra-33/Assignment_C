@@ -6,11 +6,11 @@ The problems are designed to test my understanding of fundamental concepts in C 
 
 # Assignment Questions
 # Question 1: Fibonacci Number
-Write a function fibonacci that takes an integer n as a parameter and returns the nth Fibonacci number.
-The Fibonacci sequence is defined as:
-. F(0) = 0
-. F(1) = 1
-. F(n) = F(n-1) + F(n-2) for n > 1
+Write a function fibonacci that takes an integer n as a parameter and returns the nth Fibonacci number.<br>
+The Fibonacci sequence is defined as:<br>
+. F(0) = 0<br>
+. F(1) = 1<br>
+. F(n) = F(n-1) + F(n-2) for n > 1<br>
 
 # Question 2: Print Alphabets
 Write a function alphabets that takes two characters c1 and c2 and prints all the alphabets starting from c1 to c2 in a single line.
