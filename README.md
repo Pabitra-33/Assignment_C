@@ -19,6 +19,11 @@ Output: The program should print the alphabets from 'c1' to 'c2'.
 
 # Question 3: Substring Extraction
 Write a function substring that takes a string s and two integers L and R, and returns the substring of s from index L to R.
+Input:<br>
+A string s of length n (1 ≤ n ≤ 10^6).<br>
+Two integers start and end (0 ≤ start < end ≤ n).<br>
+Output:<br>
+Print the extracted substring.<br>
 
 # Question 4: Prime Factorization
 Write a function printPrimeFactorization that takes an integer N and prints its prime factorization.
