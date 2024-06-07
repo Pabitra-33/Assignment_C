@@ -14,6 +14,8 @@ The Fibonacci sequence is defined as:<br>
 
 # Question 2: Print Alphabets
 Write a function alphabets that takes two characters c1 and c2 and prints all the alphabets starting from c1 to c2 in a single line.
+Input: There is no input for this task.
+Output: The program should print the alphabets from 'c1' to 'c2'.
 
 # Question 3: Substring Extraction
 Write a function substring that takes a string s and two integers L and R, and returns the substring of s from index L to R.
