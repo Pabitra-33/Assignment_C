@@ -27,6 +27,7 @@ Print the extracted substring.<br>
 
 # Question 4: Prime Factorization
 Write a function printPrimeFactorization that takes an integer N and prints its prime factorization.
+Prime factorization of a number is the process of breaking down into a product of prime numbers. The prime factors of are the prime numbers that divide exactly, without leaving a remainder.
 
 # Question 5: Update Variable
 Write a function updateVar that takes a pointer to an integer and increments the value of the integer by 10.
