@@ -13,8 +13,8 @@ The Fibonacci sequence is defined as:<br>
 . F(n) = F(n-1) + F(n-2) for n > 1<br>
 
 # Question 2: Print Alphabets
-Write a function alphabets that takes two characters c1 and c2 and prints all the alphabets starting from c1 to c2 in a single line.
-Input: There is no input for this task.
+Write a function alphabets that takes two characters c1 and c2 and prints all the alphabets starting from c1 to c2 in a single line.<br>
+Input: There is no input for this task.<br>
 Output: The program should print the alphabets from 'c1' to 'c2'.
 
 # Question 3: Substring Extraction
