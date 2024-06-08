@@ -46,3 +46,4 @@ Write a function transpose that takes an N x N matrix and returns its transpose.
 . Submit your completed assignment as per the submission guidelines provided.<br>
 
 # How to Run the Code: <br>
+1. Open a terminal or command prompt.
