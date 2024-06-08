@@ -38,11 +38,11 @@ Write a function isArraySpecial that takes an array of integers and checks if ev
 # Question 7: Transpose of a Matrix
 Write a function transpose that takes an N x N matrix and returns its transpose.
 
-# Instructions <br>
+# Instructions: <br>
 . Clone the repository or download the files.<br>
 . Implement each function in the corresponding C file.<br>
 . Ensure your code is properly commented and follows good coding practices.<br>
 . Compile and test your code using a C compiler.<br>
 . Submit your completed assignment as per the submission guidelines provided.<br>
 
-
+# How to Run the Code: <br>
