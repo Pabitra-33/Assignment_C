@@ -49,3 +49,6 @@ Write a function transpose that takes an N x N matrix and returns its transpose.
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing your C files.
 3. Compile your code using a C compiler (e.g., 'gcc').
+Ex: sh
+   gcc -o output_file_name source_file.c
+4. Run the compiled program.
