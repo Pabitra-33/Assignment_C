@@ -57,5 +57,5 @@ Ex: sh<br>
 
 # Submission Guidelines<br>
 . Ensure all your code is working correctly.<br>
-. Zip your project files including all source code and the README file.
-. Submit the zipped file through the designated submission platform.
+. Zip your project files including all source code and the README file.<br>
+. Submit the zipped file through the designated submission platform.<br>
