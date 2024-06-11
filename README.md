@@ -5,6 +5,7 @@ This assignments involves solving several programming problems using the C langu
 The problems are designed to test my understanding of fundamental concepts in C programming, including data types, control structures, functions, pointers, arrays, and strings.
 
 # Assignment Questions
+
 # Question 1: Fibonacci Number
 Write a function fibonacci that takes an integer n as a parameter and returns the nth Fibonacci number.<br>
 The Fibonacci sequence is defined as:<br>
